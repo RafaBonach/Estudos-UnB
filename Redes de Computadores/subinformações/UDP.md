@@ -1,0 +1,1 @@
+Apenas envia os pacotes pela rede, sem um controle de fluidez, um controle de congestionamento nem uma confiança no trasnporte de dados. Mas por ser um protocolo muito mais simples, ele garante uma comunicação muito mais rápida entre a origem e o destino.

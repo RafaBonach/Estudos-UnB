@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "b2df393915d6f99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "262bf648fa552355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9799510a51bbc60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes de Computadores/Camada de Aplicação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Camada de Aplicação"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c832a1256a92ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e1c6aba8a29c20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15ad3533175b310a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c721122792ae2927",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b9f7329b84049ab3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55ba888fdf554f9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5bfcc81178400df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b08af1f23113510b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redes de Computadores/HTTP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para HTTP"
+            }
+          },
+          {
+            "id": "a3eb09016d8f7eb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redes de Computadores/Camada de Aplicação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Camada de Aplicação"
+            }
+          },
+          {
+            "id": "077da0bad221c931",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4c3fe93a477d114",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redes de Computadores/HTTP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de HTTP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9799510a51bbc60f",
+  "lastOpenFiles": [
+    "Redes de Computadores/Camada de Transporte.md",
+    "Redes de Computadores/Camada de Aplicação.md",
+    "Redes de Computadores/subinformações/Multiplexação.md",
+    "Redes de Computadores/subinformações/Demultiplexação.md",
+    "Imagens/Pasted image 20250109155608.png",
+    "Imagens/Pasted image 20250109165940.png",
+    "Imagens/Pasted image 20250107183929.png",
+    "Imagens/Pasted image 20250107183253.png",
+    "Imagens/Pasted image 20250107181405.png",
+    "Imagens/Pasted image 20250107181310.png",
+    "Imagens/Pasted image 20250107175917.png",
+    "Imagens/Pasted image 20250109170007.png",
+    "Socket.md",
+    "Redes de Computadores/subinformações/Paradigma Cliente-Servidor.md",
+    "Redes de Computadores/subinformações",
+    "Redes de Computadores/subinformações/CDN.md",
+    "Pasted image 20250109155542.png",
+    "Pasted image 20250109155507.png",
+    "Redes de Computadores/subinformações/DASH.md",
+    "Redes de Computadores/subinformações/protocolo da camada de aplicação.md",
+    "Redes de Computadores/subinformações/Paradigma P2P.md",
+    "P2P.md",
+    "Redes de Computadores/subinformações/Cookie.md",
+    "protocolo P2P.md",
+    "Redes de Computadores/subinformações/DNS.md",
+    "Imagens",
+    "Redes de Computadores/subinformações/servidor proxy.md",
+    "Redes de Computadores/subinformações/HTTP.md",
+    "Redes de Computadores/subinformações/TCP.md",
+    "Redes de Computadores/subinformações/UDP.md",
+    "Redes de Computadores/subinformações/Numero da porta.md",
+    "Redes de Computadores/subinformações/Endereço IP.md",
+    "Redes de Computadores/subinformações/Sockets.md",
+    "2025-01-06.md",
+    "Inglês/Plano de aprendizado de Inglês.md",
+    "Redes de Computadores",
+    "Inglês",
+    "Inglês/Plano de estudos de inglês.md",
+    "Inglês/Rotina Primeiro Mês de Inglês.md",
+    "Sem título.canvas"
+  ]
+}
