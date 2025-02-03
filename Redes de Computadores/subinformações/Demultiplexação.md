@@ -16,7 +16,8 @@ O processo de [[Demultiplexação]] é dado de duas formas:
 	Ao receber um segmento, será verificado a porta do destino e encaminhar o segmento ao Socket identificado por essa porta.
 	Neste caso, datagramas que tiverem o mesmo endereço de porta e IPs diferentes ou endereço IP iguais e portas diferentes serão encaminhados ao mesmo Socket.
 	Exemplo:
-	==Inserir a imagem do caderno==
+	![[Pasted image 20250203080833.png]]
+	
 * * **Demultiplexação Orientado a Conexão**:
 	Utiliza-se o protocolo [[TCP]] para este caso.
 	Cada Socket possui 4 elementos
@@ -25,3 +26,6 @@ O processo de [[Demultiplexação]] é dado de duas formas:
 	- Numero de Porta origem
 	- Numero de Porta destino
 	Um servidor que usa [[TCP]] pode suportar vários Sockets simultâneos. Cada Socket será associado a uma conexão diferente.
+	Exemplo:
+	![[Pasted image 20250203080647.png]]
+	
