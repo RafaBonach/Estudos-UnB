@@ -1,4 +1,4 @@
-O Congestionamento consiste em o buffer dos roteadores estarem estar lotado, causando uma perda de pacotes ou atraso na emissão de pacotes.
+	O Congestionamento consiste em o buffer dos roteadores estarem estar lotado, causando uma perda de pacotes ou atraso na emissão de pacotes.
 
 Existem dois cenários que podem causar o congestionamento:
 * Em um roteador ideal que possui buffer infinito, o problema do congestionamento será justamente a demora no processamento da informação pelo roteamento. Isso faz com que o Delay aumente exponencialmente ao ponto de o tempo de espera ser infinito.

@@ -11,12 +11,10 @@
             "id": "9799510a51bbc60f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/Pasted image 20250203122253.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250203122253"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "controle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes de Computadores/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para HTTP"
+              "title": "Backlinks"
             }
           },
           {
@@ -161,45 +158,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "15ad3533175b310a",
+  "active": "9799510a51bbc60f",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20250203110326.png",
-    "Redes de Computadores/subinformações/Controle de Congestionamento.md",
-    "Imagens/Pasted image 20250203122253.png",
-    "Imagens/Pasted image 20250203121948.png",
-    "Redes de Computadores/Camada de Transporte.md",
+    "Redes de Computadores/Imagens/Pasted image 20250203094641.png",
+    "Inglês/Plano de aprendizado de Inglês.md",
+    "Inglês/Rotina Primeiro Mês de Inglês.md",
+    "Inglês/Plano de estudos de inglês.md",
+    "Pasted image 20250212161725.png.md",
+    "Redes de Computadores/subinformações/SDN.md",
+    "Redes de Computadores/subinformações/Plano de Controle.md",
+    "Redes de Computadores/Camada de Rede.md",
+    "Redes de Computadores/Revisão.md",
     "Redes de Computadores/subinformações/TCP.md",
-    "Imagens/Pasted image 20250203120733.png",
-    "Imagens/Pasted image 20250203115030.png",
-    "Imagens/Pasted image 20250203114355.png",
-    "Imagens/Pasted image 20250203114337.png",
-    "Imagens/Pasted image 20250203113627.png",
-    "Imagens/Pasted image 20250203112947.png",
-    "Redes de Computadores/subinformações/round trip time (RTT).md",
-    "Imagens/Pasted image 20250203112248.png",
+    "Redes de Computadores/Imagens/Pasted image 20250214084149.png",
+    "Redes de Computadores/Imagens/Pasted image 20250214084118.png",
+    "Redes de Computadores/Imagens/Pasted image 20250213183811.png",
     "Redes de Computadores/subinformações/RDT.md",
-    "Redes de Computadores/subinformações/Pipeline.md",
     "Redes de Computadores/subinformações/UDP.md",
-    "Redes de Computadores/subinformações/Demultiplexação.md",
+    "Redes de Computadores/Camada de Transporte.md",
+    "Redes de Computadores/subinformações/BGP.md",
+    "Sem título.md",
+    "Redes de Computadores/subinformações/Roteamento.md",
+    "Redes de Computadores/subinformações/Endereço IP.md",
+    "Redes de Computadores/subinformações/Plano de Dados.md",
     "Redes de Computadores/subinformações/Multiplexação.md",
+    "Redes de Computadores/subinformações/Demultiplexação.md",
+    "Redes de Computadores/subinformações/ICMP.md",
+    "Redes de Computadores/subinformações/OSPF.md",
+    "Redes de Computadores/Imagens/Pasted image 20250203103603.png",
+    "Redes de Computadores/Imagens/Pasted image 20250210093747.png",
+    "Redes de Computadores/Imagens/Pasted image 20250203082952.png",
+    "Redes de Computadores/Imagens/Pasted image 20250203094659.png",
+    "Redes de Computadores/Imagens/Pasted image 20250203103626.png",
+    "Redes de Computadores/Imagens/Pasted image 20250211154636.png",
+    "Redes de Computadores/OSPF.md",
+    "OSPF.md",
     "Redes de Computadores/Camada de Aplicação.md",
-    "Socket.md",
     "Redes de Computadores/subinformações/Paradigma Cliente-Servidor.md",
     "Redes de Computadores/subinformações",
-    "Redes de Computadores/subinformações/CDN.md",
-    "Redes de Computadores/subinformações/DASH.md",
-    "Redes de Computadores/subinformações/protocolo da camada de aplicação.md",
-    "Redes de Computadores/subinformações/Paradigma P2P.md",
-    "P2P.md",
-    "Redes de Computadores/subinformações/Cookie.md",
-    "protocolo P2P.md",
-    "Redes de Computadores/subinformações/DNS.md",
-    "Imagens",
-    "Redes de Computadores/subinformações/servidor proxy.md",
-    "Redes de Computadores/subinformações/HTTP.md",
-    "Redes de Computadores/subinformações/Numero da porta.md",
-    "Redes de Computadores/subinformações/Endereço IP.md",
-    "Redes de Computadores/subinformações/Sockets.md",
+    "Redes de Computadores/Imagens",
     "Redes de Computadores",
     "Inglês",
     "Sem título.canvas"
